@@ -1,4 +1,5 @@
 Math_Histogram
+==============
 
 These classes can be used to calculate histogram distributions
 of data sets. It assumes that data has no nulls.
@@ -15,11 +16,12 @@ both in regular frequency and cummulative frequency modes.
 This package requires the Math_Stats package, so if you do not have it
 installed, you need to do:
 
-	pear install Math_Stats
+	$ pear install Math_Stats
 
 before you can start using Math_Histogram in your scripts.
 
-This is old code I wrote for PEAR. Originally it was tracked in CVS,
-then it was moved to SVN, and now I am importing it to git :-)
+This is old code I wrote for [PEAR](http://pear.php.net). 
+Originally it was tracked in CVS, then it was moved to SVN, 
+and now I am importing it to git :-)
 
 -- Jesus M. Castagnetto
